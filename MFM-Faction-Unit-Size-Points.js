@@ -419,7 +419,7 @@ const FactionUnitSizePts = {
         },
         "Thulia Ghuld": {
           "1": 210
-        }
+        },
         "Reaver Titan": {
           "1": 2200
         },
@@ -475,7 +475,7 @@ const FactionUnitSizePts = {
           "Cantic Thrallnet": 25,
           "Clandestine Infiltrator": 20,
           "Veiled Hunter": 10
-        },
+        }
       }
     }
   ],
@@ -2312,7 +2312,7 @@ const FactionUnitSizePts = {
         "Flawless Blades": {
           "3": 100,
           "6": 200
-        }
+        },
         "Fulgrim": {
           "1": 340
         },
@@ -3310,7 +3310,7 @@ const FactionUnitSizePts = {
         "Burna Boyz": {
           "5": 60,
           "10": 120
-        }
+        },
         "Burna-bommer": {
           "1": 125
         },
@@ -3360,7 +3360,7 @@ const FactionUnitSizePts = {
         "Lootas": {
           "5": 50,
           "10": 100
-        }
+        },
         "Meganobz": {
           "2": 65,
           "3": 95,
@@ -4793,4 +4793,3 @@ const FactionUnitSizePts = {
     }
   ]
 };
-
