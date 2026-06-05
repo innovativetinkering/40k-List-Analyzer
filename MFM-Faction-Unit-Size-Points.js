@@ -1,4 +1,4 @@
-const 40k_Points = {
+const FactionUnitSizePts = {
   "ADEPTA SORORITAS": [
     {
       "units": {
